@@ -1,4 +1,4 @@
-# Back-end for Kinder
+# Back-End for Kinder
 
 You can find a demo video [here](https://youtu.be/tvFQDndah8g).
 
